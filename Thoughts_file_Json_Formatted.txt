@@ -1,0 +1,2012 @@
+[
+   {
+      "text":"You have to believe in yourself when no one else does. That's what makes you a winner. ",
+      "author":"Venus Williams",
+      "displayDate":"2020-08-04T00:00:00",
+      "category":"Null"
+   },
+   {
+      "text":"Life is like riding a bicycle. To keep your balance you must keep moving. ",
+      "author":"Albert Einstein",
+      "displayDate":"2020-08-08T00:00:00",
+      "category":"Null"
+   },
+   {
+      "text":"Calmness and tolerance act like air-conditioning in a hot room. They increase everyone's efficiency.",
+      "author":"Unknown",
+      "displayDate":"2020-08-10T00:00:00",
+      "category":"Null"
+   },
+   {
+      "text":"Accept the challenges, so that you may feel the exhilaration of victory.",
+      "author":"Unknown",
+      "displayDate":"2020-08-11T00:00:00",
+      "category":"Null"
+   },
+   {
+      "text":"Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing. ",
+      "author":"Abraham Lincoln ",
+      "displayDate":"2020-08-11T00:00:00",
+      "category":"Null"
+   },
+   {
+      "text":"What you get by reaching your destination is not nearly as important as what you will become by reaching your destination. ",
+      "author":"Zig Ziglar",
+      "displayDate":"2020-08-11T00:00:00",
+      "category":"Null"
+   },
+   {
+      "text":"Discipline is the bridge between goals and accomplishment. ",
+      "author":"Jim Rohn",
+      "displayDate":"2020-08-18T00:00:00",
+      "category":"Null"
+   },
+   {
+      "text":"To Teach once is to learn twice",
+      "author":"Unknown",
+      "displayDate":"2020-08-19T00:00:00",
+      "category":"Null"
+   },
+   {
+      "text":"Give the world the best you have, and the best will come to you! ",
+      "author":"Unknown",
+      "displayDate":"2020-08-20T00:00:00",
+      "category":"Null"
+   },
+   {
+      "text":"Strength does not come from physical capacity. It comes from an indomitable will. ",
+      "author":"Unknown",
+      "displayDate":"2020-09-02T00:00:00",
+      "category":"Null"
+   },
+   {
+      "text":"We have no right to express an opinion until we know all of the answers.",
+      "author":"Unknown",
+      "displayDate":"2020-09-19T00:00:00",
+      "category":"Null"
+   },
+   {
+      "text":"When ego is out of the way it is very easy to create an atmosphere of harmony.",
+      "author":"Unknown",
+      "displayDate":"2020-09-20T00:00:00",
+      "category":"Null"
+   },
+   {
+      "text":"Smiling faces doesn't mean there is absence of sorrow, but it only means they have ability to deal with them.",
+      "author":"Unknown",
+      "displayDate":"2020-09-28T00:00:00",
+      "category":"Null"
+   },
+   {
+      "text":"Obstacles are things a person sees when he takes his eyes off his goal.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"When you build a house, every brick counts. When you build a character, every thought counts.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Our life is a reflection of our habits more than our education",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Success often comes to those who dare to act. It seldom goes to the timid who are ever afraid of the consequences. ",
+      "author":"By Jawaharlal Nehru",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Life is so simple that it takes genius to understand it's simplicity.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"We have no right to express an opinion until we know all of the answers. ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"When you build a house, every brick counts. When you build a character, every thought counts. ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"There is no better teacher than life and there is no better doctor than time. ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"What you get by reaching your destination is not nearly as important as what you will become by reaching your destination. ",
+      "author":"Zig Ziglar",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Honesty and humility give happiness, whereas falsehood and ego take it away.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"There are no secrets to success.. It is the result of preparation, hard work, and learning from failure",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"There are three things we cannot hide for long. The Sun, the Earth, and the Truth. ",
+      "author":"Gautam Buddha.",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Prayer and the seed of faith are similar in nature. Both have nothing within, but have the potential of creating everything.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Don't be afraid of the space between your dreams and reality. If you can dream it, you can make it so.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The value of a man resides in what he gives and not in what he is capable of recieving ",
+      "author":"Albert Einstein",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Success is the ability to go from one failure to another with no loss of enthusiasm",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"You don't have to win every argument.Agree to disagreement.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"One of the greatest victories you can gain over someone is to beat them at politeness....",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"A leader is one who knows the way, goes the way and shows the way.",
+      "author":"John Maxwell",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"When preparation overlapes with ambition, that is called as SUCCESS.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Vision is the art of seeing what is invisible to others",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Falling down is not defeat, defeat is when you refuse to get Up..",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The act of taking the first step is what seperates the winners from the losers. : Brian Tracy ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations. ",
+      "author":"Steve Jobs",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The best way to have a good idea is to have lots of ideas. ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"You cannot teach a man anything; you can only help him find it within himself. ",
+      "author":"Galileo Galilei ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Sometimes we are limited more by attitude than by opportunities.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"No one is ready for a thing until he believes he can acquire it",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"He who asks is a fool for five minutes, but he who does not ask remains a fool forever. ",
+      "author":"Chinese Proverb",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"There are four steps to accomplishment. Plan purposefully, prepare prayerfully, proceed positively, pursue persistently.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"To taste the real flavor of success, we must combine failures, passions and courage all together in one action.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Nobody can go back and start a new beginning, but anyone can start today and make a new ending",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Excellence is to do a common thing in an uncommon way",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Don't place your mistakes on your head, their weight may crush you. Instead, place them under your feet and use them as a platform to view your horizons.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"In order to succeed, we must first believe that we can. ",
+      "author":"Michael Korda",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Cheers to a new year and another chance for us to get it right.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"There is no wrong time to do right thing\"",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Sometimes we are limited more by attitude than by opportunities.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"There's a very positive relationship between people's ability to accomplish any task and the time they're willing to spend on it.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Television news is like a lightning flash. It makes a loud noise, lights up everything around it, leaves everything else in darkness and then is suddenly gone.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Coming together is a beginning. Keeping together is progress. Working together is success.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"All appears to change when we change",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"To guarantee success, act as if it were impossible to fail.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Plans are only good intentions unless they immediately degenerate into hard work. ",
+      "author":"Peter Drucker",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"If life is a comodity we use, than time is the bill we pay for using it..",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Politics is not the art of the possible. It consists in choosing between the disastrous and the unpalatable.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"If you don't talk to the world, the world has little reason to believe you exist. ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Accept the challenges so that you may feel the exhilaration of victory",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Motivation is what gets you started. Habit is what keeps you going",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Big thinking precedes great achievement.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"If you want to stand out, don't be different; be outstanding. ",
+      "author":"Meredith West ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"It is always good to live for dreams than to live in dreams. ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Put your hand on a hot stove for a minute, and it seems like an hour. Sit with a pretty girl for an hour, and it seems like a minute. THAT'S Relativity. ",
+      "author":"Albert Einstein ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Quality is never an accident; it is always the result of intelligent effort. ",
+      "author":"John Ruskin",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Your attempt may fail, but never fail to make an attempt!",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Experience is the name every one gives to their mistakes.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Be not afraid of growing slowly, be afraid only of standing still.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The difference between the impossible and the possible lies in a person's determination.\" ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Discipline is the bridge between goals and accomplishment.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Umbrella can't stop the rain but makes us to stand in rain. Confidence may not bring success but it gives a power to face any challange.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The greatest things ever done on Earth have been done little by little",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Wishes change nothing, Decisions change everything. ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"To forgive is the highest, most beautiful form of love. In return, you will receive untold peace and happiness. ",
+      "author":"Dr. Robert Muller ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"People aren't afraid of failure, they just don't know how to suceed. ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Life is tough but it's a lot tougher when you are not paying attention !!",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"NO  ONE CAN GO BACK AND CHANGE A BAD BEGINING ;BUT ANYONE CAN START NOW AND CREAT A SUCCESSFUL ENDING.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Obstacles do not exist to be surrendered to but only to be broken ",
+      "author":"Adolf Hitler",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"No man is exempt from saying silly things; the mischief is to say them deliberately. ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Unless you try to do something beyond what you have already mastered, you will never grow. ",
+      "author":"Ronald E. Osborn ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"All Success is simple. Do what's right, the right way, at the right time. ",
+      "author":"Arnold H. Glasow ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Experience is that marvelous thing that enables you to recognize a mistake when you make it again. ",
+      "author":"Franklin P. Jones",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"In order to succeed, your desire for success should be greater than your fear of failure. ",
+      "author":"Bill Cosby",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Imagination is more important than knowledge. ",
+      "author":"Albert Einstein",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The secret of achievement is to hold a picture of a successful outcome in the mind. ",
+      "author":"Henry David Thoreau ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"A wise man will make more opportunities than he finds. ",
+      "author":"Francis Bacon ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The only limits in your life are those that you set yourself.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete. ",
+      "author":"Buckminster Fuller",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The reason why worry kills more people than work is that more people worry than work. ",
+      "author":"Robert Frost",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Opportunity is missed by most people because it is dressed in overalls and looks like work. ",
+      "author":"Thomas A. Edison",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Failure is not the worst thing in the world. The very worst is not to try. ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"You are the only person on earth who can use your ability. Zig Ziglar ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Everyone has their own view. It doesn't matter. But how you present it, it matters.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Many of the great achievements of the world were accomplished by tired and discouraged men who kept on working.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Try not to become a man of success, but rather try to become a man of value. ",
+      "author":"Albert Einstein",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"If you take responsibility for yourself you will develop a hunger to accomplish your dreams. ",
+      "author":"Les Brown ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"You have to dream before your dreams can come true. ",
+      "author":"Abdul Kalam ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"A creative man is motivated by the desire to achieve, not by the desire to beat others. ",
+      "author":"Ayn Rand ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Real integrity is doing the right thing, knowing that nobody's going to know whether you did it or not. Oprah Winfrey",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Yesterday is not ours to recover, but tomorrow is ours to win or to lose. ",
+      "author":"Lyndon B. Johnson",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The aim of an argument or discussion should not be victory, but progress.",
+      "author":"Joseph Joubert ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The biggest adventure you can ever take is to live the life of your dreams.",
+      "author":"Oprah Winfrey ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Life is 10% what happens to you and 90% how you respond to it. ",
+      "author":"Lou Holtz",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Life is a one way road, where you can look back but cannot go back. So, never miss anything. Enjoy every moment because life is how we look at it",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"They always say time changes things, but you actually have to change them yourself.",
+      "author":"Andy Warhol",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"You will never \"find\" time for anything. If you want time, you must make it. ",
+      "author":"Charles Bruxton",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The hardest arithmetic to master is that which enables us to count our blessings.",
+      "author":"Eric Hoffer ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"If I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Successful and unsuccessful people do not vary greatly in their abilities. They vary in their desires to reach their potential.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"You are where you are today because you've chosen to be there. ",
+      "author":"Harry Browne",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The secret of happiness is not in doing what one likes to do, but in liking what one has to do",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The future belongs to those who believe in the beauty of their dreams ",
+      "author":"Eleanor Roosevelt",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Laziness may appear attractive, but work gives satisfaction. ",
+      "author":"Anne Frank",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Imagination is everything. It is the preview of life's coming attractions ",
+      "author":"Albert Einstein",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Always bear in mind that your own resolution to succeed is more important than any other. ",
+      "author":"Abraham Lincoln ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"There are no great people in this world, only great challenges which ordinary people rise to meet. ",
+      "author":"William Frederick ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Sometimes it's the smallest decisions that can change your life forever. ",
+      "author":"Keri Russell ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Look at everything as though you were seeing it either for the first or last time. ",
+      "author":"Betty Smith",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"People rarely succeed unless they have fun in what they are doing ",
+      "author":"Dale Carnegie",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Anyone who has never made a mistake has never tried anything new ",
+      "author":"Albert Einstein",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The act of taking the first step is what separates the winners from the losers. ",
+      "author":"Brian Tracy",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Life isn't about finding yourself. Life is about creating yourself. ",
+      "author":"George Bernard Shaw ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Leadership is the ability to get extraordinary achievement from ordinary people. ",
+      "author":"Brian Tracy ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"It takes the hammer of persistence to drive the nail of success.",
+      "author":"John Mason ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Success is the ability to go from failure to failure without losing your enthusiasm. ",
+      "author":"Sir Winston Churchill",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"It's so hard when I have to, and so easy when I want to",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"All men make mistakes, but only wise men learn from their mistakes. ",
+      "author":"Winston Churchill",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Before you are a leader, success is all about growing yourself. When you become a leader, success is all about growing others. ",
+      "author":"Jack Welch",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"To think is easy. To act is difficult. To act as one thinks is the most difficult. ",
+      "author":"Johann Wolfgang Von Goeth",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge. ",
+      "author":"Daniel J. Boorstin ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Rise above the storm and you will find the sunshine. ",
+      "author":"Mario Fernandez ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"All life is a chance. So take it! The person who goes furthest is the one who is willing to do and dare.",
+      "author":"Dale Carnegie ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The beginning of knowledge is the discovery of something we do not understand. ",
+      "author":"Frank Herbert ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"You can't cross a sea by merely staring into the water. ",
+      "author":"Rabindranath Tagore ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The harder the conflict, the more glorious the triumph. ",
+      "author":"Thomas Paine",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Nothing is a waste of time if you use the experience wisely. ",
+      "author":"Auguste Rodin",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Satisfaction lies in the effort, not in the attainment. Full effort is full victory.",
+      "author":"Mahatma Gandhi ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Don't let the past steal your present",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"A gentleman is one who puts more into the world than he takes out. ",
+      "author":"George Bernard Shaw ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Always do your best. What you plant now, you will harvest later. ",
+      "author":"Og Mandino.",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. ",
+      "author":"Albert Schweitzer ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The winners in life think constantly in terms of I can, I will, and I am. ",
+      "author":"Dennis Waitley",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Obstacles are those frightful things you see when you take your eyes off your goal. ",
+      "author":"Henry Ford",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"There's only one way to succeed in anything and that is to give everything. ",
+      "author":"Vince Lombardi ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Only those who dare to fail greatly can ever achieve greatly. ",
+      "author":"Robert F. Kennedy ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Coming together is a beginning, staying together is progress, and working together is success",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Responsibility is the price of greatness.",
+      "author":"Winston Churchill ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Be great in act as you have been in thought. ",
+      "author":"William Shakespeare",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Forgiveness is a virtue of the brave. ",
+      "author":"Indira Gandhi",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"We cannot solve our problems with the same thinking we used when we created them. ",
+      "author":"Albert Einstein",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"If egg is broken by outside force, life ends. If broken by inside force, life begins. Great things always begin from inside force, trust yourself",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"One important key to success is self-confidence. An important key to self-confidence is preparation. ",
+      "author":"Arthur Ashe ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Nothing is particularly hard if you divide it into small jobs.",
+      "author":"Henry Ford",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Quality is never an accident; it is always the result of intelligent effort ",
+      "author":"John Ruski",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"And in the end it's not the years in your life that count. It's the life in your years. ",
+      "author":"Abraham Lincoln ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The belief in a thing makes it happen. ",
+      "author":"Frank Lloyd Wright ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Preparation transforms nervousness into confidence ",
+      "author":" Anthony Fernando",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"If you cannot do great things, do small things in a great way. ",
+      "author":"Napoleon Hill",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Let us never negotiate out of fear. But let us never fear to negotiate. ",
+      "author":"John F. Kennedy",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Patience is the best remedy for every trouble",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The only source of knowledge is experience. ",
+      "author":"Albert Einstein",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"In a gentle way, you can shake the world. ",
+      "author":"Mahatma Gandhi",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Failure is simply the opportunity to begin again,this time more intelligently. ",
+      "author":"Henry Ford",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"I hear and I forget. I see and I remember. I do and I understand",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"When love and skill work together, expect a masterpiece. ",
+      "author":"John Ruskin",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"People rarely succeed unless they have fun in what they are doing. ",
+      "author":"Dale Carnegie ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Never, never, never, never give up. ",
+      "author":"Winston Churchill ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"What we know is not much. What we do not know is immense ",
+      "author":"Sir Newton",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Always stand on principle...even if you stand alone. ",
+      "author":"John Adams",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"There is more hunger for love and appreciation in this world than for bread. ",
+      "author":"Mother Teresa",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"You have to believe in yourself when no one else does. That's what makes you a winner. ",
+      "author":"Venus Williams ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Confidence comes not from always being right but from not fearing to be wrong.",
+      "author":"Peter T. Mcintyre ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Opportunity is like an Ice;if we think more about it...it melts...!!",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Absorb what is useful, Discard what is not, Add what is uniquely your own. ",
+      "author":"Bruce Lee",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Try not to become a man of success, but rather try to become a man of value. ",
+      "author":"Albert Einstein",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Take risks in your life. If you win you can lead,if you loose you can guide. ",
+      "author":"Swami vivekananda",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"I only regret that I have but one life to lose for my country. ",
+      "author":"Nathan Hale ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Imagination is everything. It is the preview of life's coming attractions ",
+      "author":"Albert Einstein ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Success is going from failure to failure without a loss of enthusiasm ",
+      "author":"Sir Winston Churchill",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"I am extraordinarily patient, provided I get my own way in the end. ",
+      "author":"Margaret Thatcher",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"One day your life will flash before your eyes. Make sure it's worth watching. ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"You don't have to be great to start, but you have to start to be great. ",
+      "author":"Zig Ziglar",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Nothing lasts forever. Not even your troubles ",
+      "author":"Arnold H Glasgow ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"A ship in harbor is safe, but that is not what ships are built for.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"If you never fall you won't know how to pick yourself up.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The best way to pay for a lovely moment is to enjoy it ",
+      "author":"Richard Bach. ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Whatever your mind can conceive and believe it can achieve. ",
+      "author":"Napoleon Hill ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"In the middle of difficulty lies opportunity ",
+      "author":"Albert Einstein",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Either write something worth reading or do something worth writing ",
+      "author":"Benjamin Franklin",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Great achievement is usually born of sacrifice & is never the result of selfishness. ",
+      "author":"Napoleon Hill",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Nothing is a waste of time if you use the experience wisely. ",
+      "author":"Auguste Rodin",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Challenges are what make life interesting. overcoming them is what makes life meaningful ",
+      "author":"Stephen",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Our attitude toward life determines life's attitude towards us. ",
+      "author":"Tom Martino",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"A wise man will make more opportunities than he finds ",
+      "author":"Francis Bacon",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"To achieve great things, two things are needed: a plan and not quite enough time. ",
+      "author":"Leonardo Bernstein",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Life is similar to Boxing game.. Defeat is NOT declared when you fall down; It is declared when you refuse to 'Get Up'! ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Somotimes WRONG persons teach RIGHT LESSONS",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Everything is valuable only at 2 times: 1. Before getting it; and 2. After losing it !! ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"One of the greatest victories you can gain over someone is to beat him at politeness. ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Keep your face to the Sun, And you will not see the shadow!",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Life differs in each perspective.  Live the way you want to",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Ego is the only requirement to destroy any relationship. Be a bigger person; skip the \"E\", and let it \"go\"..!! ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"We have solutions to all the problems, When they are not ours !!! ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Empty pockets teach millions of things in life... But full pockets spoil us in million ways !!! ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Getting angry is punishing yourself for the mistakes of others! ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The search for happiness is one of the main source of unhappiness.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Our HOPES should be like Hair & Nails. No matter how many times they get cut, But they never stop growing. ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"All communication problems are because We don't listen to understand; We listen to reply !!!",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"There are many languages on earth, Smile speaks them all. Keep Smiling :)",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"If opportunity doesn't knock, build a door! ",
+      "author":"Milton Berle",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Only one thing makes a dream impossible: the fear of failure. ",
+      "author":"Paulo Coelho",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Problems are not meant to stop you, They are meant to teach you",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"A genuine leader is not a searcher for consensus but a molder of consensus. ",
+      "author":"Martin Luther",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"All That Glitters is Not Gold.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"A man always has two reasons for doing anything: a good reason and the real reason. ",
+      "author":"J. P. Morgan",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"There is only one passion, the passion for happiness. ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"While we are postponing, life speeds by. ",
+      "author":"Lucius Annaeus Seneca ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"A person who never made a mistake never tried anything new. ",
+      "author":"Albert Einstein ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Life consists not in holding good cards but in playing those you hold well. ",
+      "author":"Josh billings",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Success is not final,failure is not fatal:It is the courage to continue that counts ",
+      "author":"Winston Churchil",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"If you can't explain it simply, you don't understand it well enough. ",
+      "author":"Albert Einstein ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Kind words can be short and easy to speak, but their echoes are truly endless. ",
+      "author":"Mother Teresa",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"If it's still on your mind, then it's worth taking risk. ",
+      "author":"Paulo Coelho.",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"I am not what happened to me, I am what I choose to become. ",
+      "author":"C.G. Jung ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Attitude is a little thing that makes a big difference. ",
+      "author":"Winston Churchill",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Life is so much brighter when we focus on what truly matters....",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Our thoughts are the seeds that grow our lives",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Life is beautiful reflection of your thoughts, light your thoughts well.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Never play with the feelings of others because you may win the game, but you will surely lose the person for life time.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Friendship with onself is very important because without it one can not be a friend with anyone else in the world ",
+      "author":"Eleanor Roosevelt.",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Enjoy your life today because yesterday had gone and tomorrow may never come ",
+      "author":"Alan Corean",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"It doesn't matter how many mistakes you make or how slow your progress.  You are still way ahead of everyone who isn't trying.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Think Positive and Positive things will happen",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"A man's life is what his thoughts make of it.",
+      "author":"Marcus Aurelius",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"People who care for excellence, always cultivate winning habits.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"A mind that is stretched by a new experience can never go back to its old dimensions. ",
+      "author":"Oliver Wendell Holmes",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The weak can never forgive. Forgiveness is the attribute of the strong. ",
+      "author":"Mahatma Gandhi",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"If pain is nature's way of saying \"Stop!\", fear is nature's way of saying \"Be careful.\"",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"When mind is WEAK, A situation becomes PROBLEM. When mind is BALANCED the situation becomes a CHALLENGE but when the mind is strong the situation becomes OPPORTUNITY.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Life is strange. We live our life by running behind things. And one day we leave this world leaving behind all things. \"\\n\"You plan your activities in advance without knowing whether you will be there to complete those activities or not.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Growing old is mandatory. Growing up is optional. ",
+      "author":"Chili Davis",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Luck is what happens when preparation meets opportunity. ",
+      "author":"Seneca",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Everything is vague to a degree you do not realize till you have tried to make it precise. ",
+      "author":"Bertrand Russell",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"It is better to be roughly right than precisely wrong ",
+      "author":"John Maynard Keynes",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"To be uncertain is to be uncomfortable, but to be certain is to be ridiculous. ",
+      "author":"Chinese proverb",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"You are never too old to set another goal or to dream a new dream. ",
+      "author":"C. S. Lewis",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"All that is gold does not glitter; not all those that wander are lost. ï¿½- J.R.R. Tolkien (1892-1973). ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"A drop of water in lake, there is no identity, But if it is on leaf of lotus, it shines like pearl, Be in d best place where U can shine",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Discussion is an exchange of knowledge, argument is an exchange of ignorance",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"You don't have to be great to start, but you have to start to be great.....!",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Itï¿½s better to look ahead and prepare than to look back and despair....!",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Decision is the spark that ignites action. Until a decision is made, nothing happens.... ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Simplicity is the ultimate sophistication.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The past is to prove that no one is perfect and the future is to prove that everyone can change..!",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Success does not depend on making important decisions quickly, but it depends on taking quick action on important decisions.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The real art of conversation is not only to say the right thing at the right time, but also to leave unsaid the wrong thing at the tempting moment.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"If you canï¿½t forget some things in life, make sure you donï¿½t give yourself time to remember them...!!",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The man who learns the art of sharing is the richest man in the world. He may be poor, but his inner being is rich...!",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Never blame a day in your life. Good day gives u happiness and bad day gives u experience.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Success consists of going from failure to failure without loss of enthusiasm.",
+      "author":"Winston Churchill",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Don't waste your time with explanations.People only hear what they want to hear.",
+      "author":"Paulo Coelho",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"What the mind of man can conceive and believe, it can achieve.",
+      "author":"Napoleon Hill",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Whenever you get pain in your life just think about the full form of PAIN ! (Positive Attitude In Negative Situation)",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Felling are much like waves, we can't stop them from coming but we can choose which ones to surf.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Never blame anyone in your life. \"\\n\" Good people give you Happiness. \"\\n\" Bad People give you Experience. \"\\n\" Worst people give you a Lesson \"\\n\" & Best people give you memories.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Youï¿½ll never be happy with the new things you acquire if you canï¿½t enjoy the things you currently have. ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The more you enjoy each day, the more positive energy youï¿½ll have to keep moving ever forward.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Fear of failure is only for those who are arrogant enough to think that somehow they can achieve success without paying the price.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Those who know true success also know that failure is not to be feared. \"\\n\" Remember that any time is good to start and that no time is so good to give up.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Ten ideas are good but one idea put in to Practice is better still.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"When you are in light everything will follow You.But when you enter dark even you own shadow will leave you.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"You are uniquely beautiful and worthy no matter what results you get. \"\\n\" Keep that in your mind and in your attitude, and youï¿½ll surely get truly great results.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"There is little difference in people but that little difference makes a big difference. \"\\n\" The little difference is attitude. \"\\n\" The big difference is whether it is positive or negative.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Waste no more time talking about great souls and how they should be. Become one yourself!",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Try not to become a man of success but rather try to become a man of value.",
+      "author":"Albert Einstein",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"If you do not FIGHT for what you want then, Do not cry for what you lost. ",
+      "author":"From Bhagvat Gita.",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Success is getting what you want, happiness is wanting what you get ",
+      "author":"W.P. Kinsella ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The difference between ordinary and extraordinary is that little extra. ",
+      "author":"Jimmy Johnson",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The most certain way to succeed is always to try just one more time. ",
+      "author":"Thomas A. Edison",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"To be a winner, all you have to give is all you have. ",
+      "author":"Brian Tracy",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"With the new day comes new strength and new thoughts. ",
+      "author":"Eleanor Roosevelt",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Set your goals high, and don't stop till you get there. ",
+      "author":"Bo Jackson",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"What you do today can improve all your tomorrows. ",
+      "author":"Ralph Marston",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Fear cannot be without hope nor hope without fear. ",
+      "author":"Baruch Spinoza",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"In order to succeed, we must first believe that we can. ",
+      "author":"Nikos Kazantzakis",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Life is to be lived, not controlled ",
+      "author":"Ralph Waldo Emerson",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"A journey of a thousand miles begins with a single step. ",
+      "author":"Lao Tzu",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Excellence is to do a common thing in an uncommon way. ",
+      "author":"Booker T. Washington",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"In the middle of every difficulty lies opportunity. ",
+      "author":"Albert Einstein",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Keep your eyes on the stars, and your feet on the ground. ",
+      "author":"Theodore Roosevelt",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"You cannot believe in God until you believe in yourself. ",
+      "author":"Swami Vivekananda ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Life is too short to stress yourself with people who don't even deserve to be an issue in your life ",
+      "author":"Anon",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Waiting to win is common but working for win is a GENIUS !!",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"If you have everything you need, then build something far bigger than yourself. ",
+      "author":"Seth Godin",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"LIFE is not hard to manager if you have nothing to loose.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"It does not require strength to let go of old beliefs and thoughts. \"\\n\" All it requires is awareness and understanding.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Some people make your laugh a little louder. \"\\n\"\\ Your smile a little brighter, and your life a little better.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Darkness can not drive out darkness; only lights can do that. \"\\n\" Hate can not drive out hate; only love can do that ",
+      "author":"Martin Luther King, Jr.",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Weï¿½re fields of energy in an infinite energy field. e. e. Cummings ",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"If you don't like the road you're walking, start paving another one. ",
+      "author":"Dolly Parton ",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge ",
+      "author":"Eckhart Tolle.",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Do not follow the ideas of others, but learn to listen to the voice within yourself ",
+      "author":"Zen Master Dogen",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Every new day is another chance to change something in your life. \"\\n\" Every new day is a chance to feel blessed what you have.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"If you have everything you need, then build something far bigger than yourself. ",
+      "author":"Seth Godin",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Do not save what is left after spending but spend what is left after saving. ",
+      "author":"Warren Buffet",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Do not let what you cannot do interfere with what you can do. ",
+      "author":"John Wooden",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Always be ready for everything in life, because life is too short and we do not have time to practice for everything before it happens.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"There is no value of what you did in past, show your best part today. Everyone wants to read today's newspaper because yesterday's newspaper is waste paper.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The past is to prove that no one is perfect, and the future is to prove that everyone can change! \"\\n\" It is our value and not our valuables that makes life worthy.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Help is very expensive gift... so don't expect it from everyone because very few people are \"Rich\" by Heart.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Every artist, poet or actor gave their name to their work but there is no artist like a MOTHER who gives birth to a child but give Father's name.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"If you don't fight for what you want, then don't CRY for what you lost ",
+      "author":"Lord Krishna.",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Life is combination of adjustments and compromises, Adjust when some one wnats to be with you and compromise when you want to be with someone.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The only reason for time is so that everything doesn't happen at once ",
+      "author":"Albert Einstein",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Coming together is beginning; keeping together is progress; Working together is success. ",
+      "author":"Henry Ford",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"If you want to live a happy life, tie it to a goal. Not to people or things. ",
+      "author":"Albert Einstein",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"The best gift you could ever give someone is your TIME, Because you are giving them something that you will never get back.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"Winners not do anything different, they do the same thing in a different way. ",
+      "author":"Shiv Khera",
+      "displayDate":null,
+      "category":"Null"
+   },
+   {
+      "text":"An attitude of positive expectation is the mark of the superior personality",
+      "author":"Brian Tracy",
+      "displayDate":null,
+      "category":"null"
+   },
+   {
+      "text":"You don't have to be so tough that it does not hurt, you just have to be tough enough not to quit",
+      "author":"null",
+      "displayDate":null,
+      "category":"null"
+   },
+   {
+      "text":"A bad attitude is like a flat tire; you canâ€™t go anywhere until you change it.",
+      "author":"John Mitchell",
+      "displayDate":null,
+      "category":"null"
+   },
+   {
+      "text":"You don't inspire your teammates by showing them how amaing you are. You inspire them by showing them how amazing they are",
+      "author":"Robyn Benincasa",
+      "displayDate":null,
+      "category":"null"
+   },
+   {
+      "text":"Talent wins games, but teamwork and intelligence win Championships.",
+      "author":"Michael Jordan",
+      "displayDate":null,
+      "category":"null"
+   },
+   {
+      "text":"The secret of change is to focus all your energy. Not on fighting the old, but on building the new.",
+      "author":"Socrates",
+      "displayDate":null,
+      "category":"null"
+   },
+   {
+      "text":"Laughter is timeless, Imagination has no age And Dreams are forever ",
+      "author":"Walt Disney",
+      "displayDate":null,
+      "category":"null"
+   },
+   {
+      "text":"Everyone should know how to code a computer, because it teaches you how to think!",
+      "author":"Steve Jobs",
+      "displayDate":null,
+      "category":"null"
+   },
+   {
+      "text":"Never regret a day in your life: good days give happiness, bad days give experience, worst days give lessons, and best days give memories.",
+      "author":"Unknown",
+      "displayDate":null,
+      "category":"null"
+   },
+   {
+      "text":"The best way to predict your future is to create it.",
+      "author":"Abraham Lincoln",
+      "displayDate":null,
+      "category":"null"
+   },
+   {
+      "text":"Not all storms come to distrupt your life; some come to clear your path.",
+      "author":"unknown",
+      "displayDate":null,
+      "category":"null"
+   },
+   {
+      "text":"Your attitude towards failure determines your altitude after failure.",
+      "author":"John C Maxwell",
+      "displayDate":null,
+      "category":"null"
+   },
+   {
+      "text":"If it doesn't challenge you. It doesn't change you.",
+      "author":"Fred Devito",
+      "displayDate":null,
+      "category":"null"
+   },
+   {
+      "text":"If it doesn't challenge you. It doesn't change you.",
+      "author":"Fred Devito",
+      "displayDate":null,
+      "category":"null"
+   }
+]
