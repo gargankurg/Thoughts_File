@@ -1,0 +1,16 @@
+This is not added in the actual thoughts file
+
+Pending thoughts for addition
+
+{
+        "text": "If \"Plan A\" did not work. The Alphabet has 25 more letters! Stay cool",
+        "author": "Kenneth Arrow",
+        "displayDate": null,
+        "category": null
+}
+{
+        "text": "Peach is the most powerful weapon of mankind",
+        "author": "Mahatma Gandhi",
+        "displayDate": null,
+        "category": null
+}
