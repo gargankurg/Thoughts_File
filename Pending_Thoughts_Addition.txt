@@ -14,3 +14,52 @@ Pending thoughts for addition
         "displayDate": null,
         "category": null
 }
+
+{
+        "text": "When we strive to become better than we are, everything around us becomes better too",
+        "author": "Paulo Coelho",
+        "displayDate": null,
+        "category": null
+}
+{
+        "text": "Every day is a brand new day. Forget about yesterday, make the best of today, prepare for a better tomorrow.",
+        "author": "Paulo Coelho",
+        "displayDate": null,
+        "category": null
+}
+{
+        "text": "Do not start your day with the broken pieces of yesterday. Every day is a new beginning.",
+        "author": "Unknown",
+        "displayDate": null,
+        "category": null
+}
+{
+        "text": "If you talk about it, it is a dream. If you envision it, it is possible. But if you schedule it, it is real. ",
+        "author": "Tony Robbins",
+        "displayDate": null,
+        "category": null
+}
+{
+        "text": "It's fine to celebrate success but it is more important to heed the lessons of failure.",
+        "author": "Bill Gates",
+        "displayDate": null,
+        "category": null
+}
+{
+        "text": "Fall is proof that change is beautiful",
+        "author": "Unknown",
+        "displayDate": null,
+        "category": null
+}
+{
+        "text": "Laugh when you can, apologize when you should and let go of what you can not change",
+        "author": "Unknown",
+        "displayDate": null,
+        "category": null
+}
+{
+        "text": "The strongest people are not those who show strength in front of us but those who win battles we know nothing about",
+        "author": "Unknown",
+        "displayDate": null,
+        "category": null
+}
